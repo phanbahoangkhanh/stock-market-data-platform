@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Java
+jars/
+
+# Spark
+lakehouse/
+*.parquet
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
